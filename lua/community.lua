@@ -4,6 +4,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.completion.copilot-cmp" },
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
